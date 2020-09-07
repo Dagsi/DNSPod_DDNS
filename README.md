@@ -18,7 +18,7 @@
 #### linux
 
 运行 `sudo sh ./task.sh`
-
+</details>
 ### 小提示
 
 -   如需单文件运行，将`ddnspod.sh`中的配置项添加到`ardnspod`底部，直接运行`ardnspod`即可
